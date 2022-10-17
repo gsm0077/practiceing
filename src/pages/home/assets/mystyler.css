@@ -1,0 +1,6 @@
+.uf{
+    background : linear-gradient(to right,hsl(200 100% 50%),hsl(175 100% 50%),hsl(197, 88%, 36%));
+}    
+.ul{
+    background : linear-gradient(to left,hsl(74, 73%, 51%),hsl(137, 100%, 45%))
+}
